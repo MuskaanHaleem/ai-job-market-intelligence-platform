@@ -1,0 +1,13 @@
+Column,Data_Type,Non_Null_Count,Unique_Values,Sample_Value
+Min_Salary_K,uint8,99636,11,55
+Max_Salary_K,uint8,99636,51,84
+Job Title,object,99636,147,Procurement Manager
+Role,object,99636,376,Supplier Diversity Manager
+Qualifications,category,99636,10,BBA
+Min_Experience,uint8,99636,6,5
+Max_Experience,uint8,99636,8,10
+skills,object,99636,376,Supplier diversity programs Diversity and inclusion initiatives Supplier assessment and certification Data collection and reporting Vendor outreach and engagement Strategic planning Communication skills Relationship building Attention to diversity and inclusion principles
+Work Type,category,99636,5,Contract
+Company Size,uint32,99636,68088,93242
+Country,category,99636,216,Panama
+Job Portal,category,99636,16,The Muse
